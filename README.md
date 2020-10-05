@@ -1,5 +1,15 @@
 ### Hi there 👋
-
+🔭 I’m currently working on Acer Quality Assurance 
+<br>
+🌱 I’m currently learning JSP & Servlet for Web back-end 
+<br> 
+Now I have skills as below -  
+Java Basic (SL275) ,
+Java JDBC (SL310) ,
+JSP & Servlet , 
+Android Develop (Basic)
+<hr>
+HTML、CSS、JavaScript
 <!--
 **apec07/apec07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
