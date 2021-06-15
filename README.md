@@ -9,7 +9,7 @@ Java JDBC (SL310) ,
 JSP & Servlet , 
 Android Develop (Basic)
 <hr>
-HTML、CSS、JavaScript
+HTML、CSS、JavaScript、JQuery、AJax
 <!--
 **apec07/apec07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
